@@ -1,0 +1,3180 @@
+.material-icons.material-3d-rotation:before
+{
+	content: "\0e84d";
+}
+.material-icons.material-access-alarm:before
+{
+	content: "\0e190";
+}
+.material-icons.material-access-alarms:before
+{
+	content: "\0e191";
+}
+.material-icons.material-access-time:before
+{
+	content: "\0e192";
+}
+.material-icons.material-accessibility:before
+{
+	content: "\0e84e";
+}
+.material-icons.material-account-balance:before
+{
+	content: "\0e84f";
+}
+.material-icons.material-account-balance-wallet:before
+{
+	content: "\0e850";
+}
+.material-icons.material-account-box:before
+{
+	content: "\0e851";
+}
+.material-icons.material-account-circle:before
+{
+	content: "\0e853";
+}
+.material-icons.material-adb:before
+{
+	content: "\0e60e";
+}
+.material-icons.material-add:before
+{
+	content: "\0e145";
+}
+.material-icons.material-add-alarm:before
+{
+	content: "\0e193";
+}
+.material-icons.material-add-alert:before
+{
+	content: "\0e003";
+}
+.material-icons.material-add-box:before
+{
+	content: "\0e146";
+}
+.material-icons.material-add-circle:before
+{
+	content: "\0e147";
+}
+.material-icons.material-add-circle-outline:before
+{
+	content: "\0e148";
+}
+.material-icons.material-add-shopping-cart:before
+{
+	content: "\0e854";
+}
+.material-icons.material-add-to-photos:before
+{
+	content: "\0e39d";
+}
+.material-icons.material-adjust:before
+{
+	content: "\0e39e";
+}
+.material-icons.material-airline-seat-flat:before
+{
+	content: "\0e630";
+}
+.material-icons.material-airline-seat-flat-angled:before
+{
+	content: "\0e631";
+}
+.material-icons.material-airline-seat-individual-suite:before
+{
+	content: "\0e632";
+}
+.material-icons.material-airline-seat-legroom-extra:before
+{
+	content: "\0e633";
+}
+.material-icons.material-airline-seat-legroom-normal:before
+{
+	content: "\0e634";
+}
+.material-icons.material-airline-seat-legroom-reduced:before
+{
+	content: "\0e635";
+}
+.material-icons.material-airline-seat-recline-extra:before
+{
+	content: "\0e636";
+}
+.material-icons.material-airline-seat-recline-normal:before
+{
+	content: "\0e637";
+}
+.material-icons.material-airplanemode-active:before
+{
+	content: "\0e195";
+}
+.material-icons.material-airplanemode-inactive:before
+{
+	content: "\0e194";
+}
+.material-icons.material-airplay:before
+{
+	content: "\0e055";
+}
+.material-icons.material-alarm:before
+{
+	content: "\0e855";
+}
+.material-icons.material-alarm-add:before
+{
+	content: "\0e856";
+}
+.material-icons.material-alarm-off:before
+{
+	content: "\0e857";
+}
+.material-icons.material-alarm-on:before
+{
+	content: "\0e858";
+}
+.material-icons.material-album:before
+{
+	content: "\0e019";
+}
+.material-icons.material-android:before
+{
+	content: "\0e859";
+}
+.material-icons.material-announcement:before
+{
+	content: "\0e85a";
+}
+.material-icons.material-apps:before
+{
+	content: "\0e5c3";
+}
+.material-icons.material-archive:before
+{
+	content: "\0e149";
+}
+.material-icons.material-arrow-back:before
+{
+	content: "\0e5c4";
+}
+.material-icons.material-arrow-drop-down:before
+{
+	content: "\0e5c5";
+}
+.material-icons.material-arrow-drop-down-circle:before
+{
+	content: "\0e5c6";
+}
+.material-icons.material-arrow-drop-up:before
+{
+	content: "\0e5c7";
+}
+.material-icons.material-arrow-forward:before
+{
+	content: "\0e5c8";
+}
+.material-icons.material-aspect-ratio:before
+{
+	content: "\0e85b";
+}
+.material-icons.material-assessment:before
+{
+	content: "\0e85c";
+}
+.material-icons.material-assignment:before
+{
+	content: "\0e85d";
+}
+.material-icons.material-assignment-ind:before
+{
+	content: "\0e85e";
+}
+.material-icons.material-assignment-late:before
+{
+	content: "\0e85f";
+}
+.material-icons.material-assignment-return:before
+{
+	content: "\0e860";
+}
+.material-icons.material-assignment-returned:before
+{
+	content: "\0e861";
+}
+.material-icons.material-assignment-turned-in:before
+{
+	content: "\0e862";
+}
+.material-icons.material-assistant:before
+{
+	content: "\0e39f";
+}
+.material-icons.material-assistant-photo:before
+{
+	content: "\0e3a0";
+}
+.material-icons.material-attach-file:before
+{
+	content: "\0e226";
+}
+.material-icons.material-attach-money:before
+{
+	content: "\0e227";
+}
+.material-icons.material-attachment:before
+{
+	content: "\0e2bc";
+}
+.material-icons.material-audiotrack:before
+{
+	content: "\0e3a1";
+}
+.material-icons.material-autorenew:before
+{
+	content: "\0e863";
+}
+.material-icons.material-av-timer:before
+{
+	content: "\0e01b";
+}
+.material-icons.material-backspace:before
+{
+	content: "\0e14a";
+}
+.material-icons.material-backup:before
+{
+	content: "\0e864";
+}
+.material-icons.material-battery-alert:before
+{
+	content: "\0e19c";
+}
+.material-icons.material-battery-charging-full:before
+{
+	content: "\0e1a3";
+}
+.material-icons.material-battery-full:before
+{
+	content: "\0e1a4";
+}
+.material-icons.material-battery-std:before
+{
+	content: "\0e1a5";
+}
+.material-icons.material-battery-unknown:before
+{
+	content: "\0e1a6";
+}
+.material-icons.material-beenhere:before
+{
+	content: "\0e52d";
+}
+.material-icons.material-block:before
+{
+	content: "\0e14b";
+}
+.material-icons.material-bluetooth:before
+{
+	content: "\0e1a7";
+}
+.material-icons.material-bluetooth-audio:before
+{
+	content: "\0e60f";
+}
+.material-icons.material-bluetooth-connected:before
+{
+	content: "\0e1a8";
+}
+.material-icons.material-bluetooth-disabled:before
+{
+	content: "\0e1a9";
+}
+.material-icons.material-bluetooth-searching:before
+{
+	content: "\0e1aa";
+}
+.material-icons.material-blur-circular:before
+{
+	content: "\0e3a2";
+}
+.material-icons.material-blur-linear:before
+{
+	content: "\0e3a3";
+}
+.material-icons.material-blur-off:before
+{
+	content: "\0e3a4";
+}
+.material-icons.material-blur-on:before
+{
+	content: "\0e3a5";
+}
+.material-icons.material-book:before
+{
+	content: "\0e865";
+}
+.material-icons.material-bookmark:before
+{
+	content: "\0e866";
+}
+.material-icons.material-bookmark-border:before
+{
+	content: "\0e867";
+}
+.material-icons.material-border-all:before
+{
+	content: "\0e228";
+}
+.material-icons.material-border-bottom:before
+{
+	content: "\0e229";
+}
+.material-icons.material-border-clear:before
+{
+	content: "\0e22a";
+}
+.material-icons.material-border-color:before
+{
+	content: "\0e22b";
+}
+.material-icons.material-border-horizontal:before
+{
+	content: "\0e22c";
+}
+.material-icons.material-border-inner:before
+{
+	content: "\0e22d";
+}
+.material-icons.material-border-left:before
+{
+	content: "\0e22e";
+}
+.material-icons.material-border-outer:before
+{
+	content: "\0e22f";
+}
+.material-icons.material-border-right:before
+{
+	content: "\0e230";
+}
+.material-icons.material-border-style:before
+{
+	content: "\0e231";
+}
+.material-icons.material-border-top:before
+{
+	content: "\0e232";
+}
+.material-icons.material-border-vertical:before
+{
+	content: "\0e233";
+}
+.material-icons.material-brightness-1:before
+{
+	content: "\0e3a6";
+}
+.material-icons.material-brightness-2:before
+{
+	content: "\0e3a7";
+}
+.material-icons.material-brightness-3:before
+{
+	content: "\0e3a8";
+}
+.material-icons.material-brightness-4:before
+{
+	content: "\0e3a9";
+}
+.material-icons.material-brightness-5:before
+{
+	content: "\0e3aa";
+}
+.material-icons.material-brightness-6:before
+{
+	content: "\0e3ab";
+}
+.material-icons.material-brightness-7:before
+{
+	content: "\0e3ac";
+}
+.material-icons.material-brightness-auto:before
+{
+	content: "\0e1ab";
+}
+.material-icons.material-brightness-high:before
+{
+	content: "\0e1ac";
+}
+.material-icons.material-brightness-low:before
+{
+	content: "\0e1ad";
+}
+.material-icons.material-brightness-medium:before
+{
+	content: "\0e1ae";
+}
+.material-icons.material-broken-image:before
+{
+	content: "\0e3ad";
+}
+.material-icons.material-brush:before
+{
+	content: "\0e3ae";
+}
+.material-icons.material-bug-report:before
+{
+	content: "\0e868";
+}
+.material-icons.material-build:before
+{
+	content: "\0e869";
+}
+.material-icons.material-business:before
+{
+	content: "\0e0af";
+}
+.material-icons.material-cached:before
+{
+	content: "\0e86a";
+}
+.material-icons.material-cake:before
+{
+	content: "\0e7e9";
+}
+.material-icons.material-call:before
+{
+	content: "\0e0b0";
+}
+.material-icons.material-call-end:before
+{
+	content: "\0e0b1";
+}
+.material-icons.material-call-made:before
+{
+	content: "\0e0b2";
+}
+.material-icons.material-call-merge:before
+{
+	content: "\0e0b3";
+}
+.material-icons.material-call-missed:before
+{
+	content: "\0e0b4";
+}
+.material-icons.material-call-received:before
+{
+	content: "\0e0b5";
+}
+.material-icons.material-call-split:before
+{
+	content: "\0e0b6";
+}
+.material-icons.material-camera:before
+{
+	content: "\0e3af";
+}
+.material-icons.material-camera-alt:before
+{
+	content: "\0e3b0";
+}
+.material-icons.material-camera-enhance:before
+{
+	content: "\0e8fc";
+}
+.material-icons.material-camera-front:before
+{
+	content: "\0e3b1";
+}
+.material-icons.material-camera-rear:before
+{
+	content: "\0e3b2";
+}
+.material-icons.material-camera-roll:before
+{
+	content: "\0e3b3";
+}
+.material-icons.material-cancel:before
+{
+	content: "\0e5c9";
+}
+.material-icons.material-card-giftcard:before
+{
+	content: "\0e8f6";
+}
+.material-icons.material-card-membership:before
+{
+	content: "\0e8f7";
+}
+.material-icons.material-card-travel:before
+{
+	content: "\0e8f8";
+}
+.material-icons.material-cast:before
+{
+	content: "\0e307";
+}
+.material-icons.material-cast-connected:before
+{
+	content: "\0e308";
+}
+.material-icons.material-center-focus-strong:before
+{
+	content: "\0e3b4";
+}
+.material-icons.material-center-focus-weak:before
+{
+	content: "\0e3b5";
+}
+.material-icons.material-change-history:before
+{
+	content: "\0e86b";
+}
+.material-icons.material-chat:before
+{
+	content: "\0e0b7";
+}
+.material-icons.material-chat-bubble:before
+{
+	content: "\0e0ca";
+}
+.material-icons.material-chat-bubble-outline:before
+{
+	content: "\0e0cb";
+}
+.material-icons.material-check:before
+{
+	content: "\0e5ca";
+}
+.material-icons.material-check-box:before
+{
+	content: "\0e834";
+}
+.material-icons.material-check-box-outline-blank:before
+{
+	content: "\0e835";
+}
+.material-icons.material-check-circle:before
+{
+	content: "\0e86c";
+}
+.material-icons.material-chevron-left:before
+{
+	content: "\0e5cb";
+}
+.material-icons.material-chevron-right:before
+{
+	content: "\0e5cc";
+}
+.material-icons.material-chrome-reader-mode:before
+{
+	content: "\0e86d";
+}
+.material-icons.material-class:before
+{
+	content: "\0e86e";
+}
+.material-icons.material-clear:before
+{
+	content: "\0e14c";
+}
+.material-icons.material-clear-all:before
+{
+	content: "\0e0b8";
+}
+.material-icons.material-close:before
+{
+	content: "\0e5cd";
+}
+.material-icons.material-closed-caption:before
+{
+	content: "\0e01c";
+}
+.material-icons.material-cloud:before
+{
+	content: "\0e2bd";
+}
+.material-icons.material-cloud-circle:before
+{
+	content: "\0e2be";
+}
+.material-icons.material-cloud-done:before
+{
+	content: "\0e2bf";
+}
+.material-icons.material-cloud-download:before
+{
+	content: "\0e2c0";
+}
+.material-icons.material-cloud-off:before
+{
+	content: "\0e2c1";
+}
+.material-icons.material-cloud-queue:before
+{
+	content: "\0e2c2";
+}
+.material-icons.material-cloud-upload:before
+{
+	content: "\0e2c3";
+}
+.material-icons.material-code:before
+{
+	content: "\0e86f";
+}
+.material-icons.material-collections:before
+{
+	content: "\0e3b6";
+}
+.material-icons.material-collections-bookmark:before
+{
+	content: "\0e431";
+}
+.material-icons.material-color-lens:before
+{
+	content: "\0e3b7";
+}
+.material-icons.material-colorize:before
+{
+	content: "\0e3b8";
+}
+.material-icons.material-comment:before
+{
+	content: "\0e0b9";
+}
+.material-icons.material-compare:before
+{
+	content: "\0e3b9";
+}
+.material-icons.material-computer:before
+{
+	content: "\0e30a";
+}
+.material-icons.material-confirmation-number:before
+{
+	content: "\0e638";
+}
+.material-icons.material-contact-phone:before
+{
+	content: "\0e0cf";
+}
+.material-icons.material-contacts:before
+{
+	content: "\0e0ba";
+}
+.material-icons.material-content-copy:before
+{
+	content: "\0e14d";
+}
+.material-icons.material-content-cut:before
+{
+	content: "\0e14e";
+}
+.material-icons.material-content-paste:before
+{
+	content: "\0e14f";
+}
+.material-icons.material-control-point:before
+{
+	content: "\0e3ba";
+}
+.material-icons.material-control-point-duplicate:before
+{
+	content: "\0e3bb";
+}
+.material-icons.material-create:before
+{
+	content: "\0e150";
+}
+.material-icons.material-credit-card:before
+{
+	content: "\0e870";
+}
+.material-icons.material-crop:before
+{
+	content: "\0e3be";
+}
+.material-icons.material-crop-16-9:before
+{
+	content: "\0e3bc";
+}
+.material-icons.material-crop-3-2:before
+{
+	content: "\0e3bd";
+}
+.material-icons.material-crop-5-4:before
+{
+	content: "\0e3bf";
+}
+.material-icons.material-crop-7-5:before
+{
+	content: "\0e3c0";
+}
+.material-icons.material-crop-din:before
+{
+	content: "\0e3c1";
+}
+.material-icons.material-crop-free:before
+{
+	content: "\0e3c2";
+}
+.material-icons.material-crop-landscape:before
+{
+	content: "\0e3c3";
+}
+.material-icons.material-crop-original:before
+{
+	content: "\0e3c4";
+}
+.material-icons.material-crop-portrait:before
+{
+	content: "\0e3c5";
+}
+.material-icons.material-crop-square:before
+{
+	content: "\0e3c6";
+}
+.material-icons.material-dashboard:before
+{
+	content: "\0e871";
+}
+.material-icons.material-data-usage:before
+{
+	content: "\0e1af";
+}
+.material-icons.material-dehaze:before
+{
+	content: "\0e3c7";
+}
+.material-icons.material-delete:before
+{
+	content: "\0e872";
+}
+.material-icons.material-description:before
+{
+	content: "\0e873";
+}
+.material-icons.material-desktop-mac:before
+{
+	content: "\0e30b";
+}
+.material-icons.material-desktop-windows:before
+{
+	content: "\0e30c";
+}
+.material-icons.material-details:before
+{
+	content: "\0e3c8";
+}
+.material-icons.material-developer-board:before
+{
+	content: "\0e30d";
+}
+.material-icons.material-developer-mode:before
+{
+	content: "\0e1b0";
+}
+.material-icons.material-device-hub:before
+{
+	content: "\0e335";
+}
+.material-icons.material-devices:before
+{
+	content: "\0e1b1";
+}
+.material-icons.material-dialer-sip:before
+{
+	content: "\0e0bb";
+}
+.material-icons.material-dialpad:before
+{
+	content: "\0e0bc";
+}
+.material-icons.material-directions:before
+{
+	content: "\0e52e";
+}
+.material-icons.material-directions-bike:before
+{
+	content: "\0e52f";
+}
+.material-icons.material-directions-boat:before
+{
+	content: "\0e532";
+}
+.material-icons.material-directions-bus:before
+{
+	content: "\0e530";
+}
+.material-icons.material-directions-car:before
+{
+	content: "\0e531";
+}
+.material-icons.material-directions-railway:before
+{
+	content: "\0e534";
+}
+.material-icons.material-directions-run:before
+{
+	content: "\0e566";
+}
+.material-icons.material-directions-subway:before
+{
+	content: "\0e533";
+}
+.material-icons.material-directions-transit:before
+{
+	content: "\0e535";
+}
+.material-icons.material-directions-walk:before
+{
+	content: "\0e536";
+}
+.material-icons.material-disc-full:before
+{
+	content: "\0e610";
+}
+.material-icons.material-dns:before
+{
+	content: "\0e875";
+}
+.material-icons.material-do-not-disturb:before
+{
+	content: "\0e612";
+}
+.material-icons.material-do-not-disturb-alt:before
+{
+	content: "\0e611";
+}
+.material-icons.material-dock:before
+{
+	content: "\0e30e";
+}
+.material-icons.material-domain:before
+{
+	content: "\0e7ee";
+}
+.material-icons.material-done:before
+{
+	content: "\0e876";
+}
+.material-icons.material-done-all:before
+{
+	content: "\0e877";
+}
+.material-icons.material-drafts:before
+{
+	content: "\0e151";
+}
+.material-icons.material-drive-eta:before
+{
+	content: "\0e613";
+}
+.material-icons.material-dvr:before
+{
+	content: "\0e1b2";
+}
+.material-icons.material-edit:before
+{
+	content: "\0e3c9";
+}
+.material-icons.material-eject:before
+{
+	content: "\0e8fb";
+}
+.material-icons.material-email:before
+{
+	content: "\0e0be";
+}
+.material-icons.material-equalizer:before
+{
+	content: "\0e01d";
+}
+.material-icons.material-error:before
+{
+	content: "\0e000";
+}
+.material-icons.material-error-outline:before
+{
+	content: "\0e001";
+}
+.material-icons.material-event:before
+{
+	content: "\0e878";
+}
+.material-icons.material-event-available:before
+{
+	content: "\0e614";
+}
+.material-icons.material-event-busy:before
+{
+	content: "\0e615";
+}
+.material-icons.material-event-note:before
+{
+	content: "\0e616";
+}
+.material-icons.material-event-seat:before
+{
+	content: "\0e903";
+}
+.material-icons.material-exit-to-app:before
+{
+	content: "\0e879";
+}
+.material-icons.material-expand-less:before
+{
+	content: "\0e5ce";
+}
+.material-icons.material-expand-more:before
+{
+	content: "\0e5cf";
+}
+.material-icons.material-explicit:before
+{
+	content: "\0e01e";
+}
+.material-icons.material-explore:before
+{
+	content: "\0e87a";
+}
+.material-icons.material-exposure:before
+{
+	content: "\0e3ca";
+}
+.material-icons.material-exposure-neg-1:before
+{
+	content: "\0e3cb";
+}
+.material-icons.material-exposure-neg-2:before
+{
+	content: "\0e3cc";
+}
+.material-icons.material-exposure-plus-1:before
+{
+	content: "\0e3cd";
+}
+.material-icons.material-exposure-plus-2:before
+{
+	content: "\0e3ce";
+}
+.material-icons.material-exposure-zero:before
+{
+	content: "\0e3cf";
+}
+.material-icons.material-extension:before
+{
+	content: "\0e87b";
+}
+.material-icons.material-face:before
+{
+	content: "\0e87c";
+}
+.material-icons.material-fast-forward:before
+{
+	content: "\0e01f";
+}
+.material-icons.material-fast-rewind:before
+{
+	content: "\0e020";
+}
+.material-icons.material-favorite:before
+{
+	content: "\0e87d";
+}
+.material-icons.material-favorite-border:before
+{
+	content: "\0e87e";
+}
+.material-icons.material-feedback:before
+{
+	content: "\0e87f";
+}
+.material-icons.material-file-download:before
+{
+	content: "\0e2c4";
+}
+.material-icons.material-file-upload:before
+{
+	content: "\0e2c6";
+}
+.material-icons.material-filter:before
+{
+	content: "\0e3d3";
+}
+.material-icons.material-filter-1:before
+{
+	content: "\0e3d0";
+}
+.material-icons.material-filter-2:before
+{
+	content: "\0e3d1";
+}
+.material-icons.material-filter-3:before
+{
+	content: "\0e3d2";
+}
+.material-icons.material-filter-4:before
+{
+	content: "\0e3d4";
+}
+.material-icons.material-filter-5:before
+{
+	content: "\0e3d5";
+}
+.material-icons.material-filter-6:before
+{
+	content: "\0e3d6";
+}
+.material-icons.material-filter-7:before
+{
+	content: "\0e3d7";
+}
+.material-icons.material-filter-8:before
+{
+	content: "\0e3d8";
+}
+.material-icons.material-filter-9:before
+{
+	content: "\0e3d9";
+}
+.material-icons.material-filter-9-plus:before
+{
+	content: "\0e3da";
+}
+.material-icons.material-filter-b-and-w:before
+{
+	content: "\0e3db";
+}
+.material-icons.material-filter-center-focus:before
+{
+	content: "\0e3dc";
+}
+.material-icons.material-filter-drama:before
+{
+	content: "\0e3dd";
+}
+.material-icons.material-filter-frames:before
+{
+	content: "\0e3de";
+}
+.material-icons.material-filter-hdr:before
+{
+	content: "\0e3df";
+}
+.material-icons.material-filter-list:before
+{
+	content: "\0e152";
+}
+.material-icons.material-filter-none:before
+{
+	content: "\0e3e0";
+}
+.material-icons.material-filter-tilt-shift:before
+{
+	content: "\0e3e2";
+}
+.material-icons.material-filter-vintage:before
+{
+	content: "\0e3e3";
+}
+.material-icons.material-find-in-page:before
+{
+	content: "\0e880";
+}
+.material-icons.material-find-replace:before
+{
+	content: "\0e881";
+}
+.material-icons.material-flag:before
+{
+	content: "\0e153";
+}
+.material-icons.material-flare:before
+{
+	content: "\0e3e4";
+}
+.material-icons.material-flash-auto:before
+{
+	content: "\0e3e5";
+}
+.material-icons.material-flash-off:before
+{
+	content: "\0e3e6";
+}
+.material-icons.material-flash-on:before
+{
+	content: "\0e3e7";
+}
+.material-icons.material-flight:before
+{
+	content: "\0e539";
+}
+.material-icons.material-flight-land:before
+{
+	content: "\0e904";
+}
+.material-icons.material-flight-takeoff:before
+{
+	content: "\0e905";
+}
+.material-icons.material-flip:before
+{
+	content: "\0e3e8";
+}
+.material-icons.material-flip-to-back:before
+{
+	content: "\0e882";
+}
+.material-icons.material-flip-to-front:before
+{
+	content: "\0e883";
+}
+.material-icons.material-folder:before
+{
+	content: "\0e2c7";
+}
+.material-icons.material-folder-open:before
+{
+	content: "\0e2c8";
+}
+.material-icons.material-folder-shared:before
+{
+	content: "\0e2c9";
+}
+.material-icons.material-folder-special:before
+{
+	content: "\0e617";
+}
+.material-icons.material-font-download:before
+{
+	content: "\0e167";
+}
+.material-icons.material-format-align-center:before
+{
+	content: "\0e234";
+}
+.material-icons.material-format-align-justify:before
+{
+	content: "\0e235";
+}
+.material-icons.material-format-align-left:before
+{
+	content: "\0e236";
+}
+.material-icons.material-format-align-right:before
+{
+	content: "\0e237";
+}
+.material-icons.material-format-bold:before
+{
+	content: "\0e238";
+}
+.material-icons.material-format-clear:before
+{
+	content: "\0e239";
+}
+.material-icons.material-format-color-fill:before
+{
+	content: "\0e23a";
+}
+.material-icons.material-format-color-reset:before
+{
+	content: "\0e23b";
+}
+.material-icons.material-format-color-text:before
+{
+	content: "\0e23c";
+}
+.material-icons.material-format-indent-decrease:before
+{
+	content: "\0e23d";
+}
+.material-icons.material-format-indent-increase:before
+{
+	content: "\0e23e";
+}
+.material-icons.material-format-italic:before
+{
+	content: "\0e23f";
+}
+.material-icons.material-format-line-spacing:before
+{
+	content: "\0e240";
+}
+.material-icons.material-format-list-bulleted:before
+{
+	content: "\0e241";
+}
+.material-icons.material-format-list-numbered:before
+{
+	content: "\0e242";
+}
+.material-icons.material-format-paint:before
+{
+	content: "\0e243";
+}
+.material-icons.material-format-quote:before
+{
+	content: "\0e244";
+}
+.material-icons.material-format-size:before
+{
+	content: "\0e245";
+}
+.material-icons.material-format-strikethrough:before
+{
+	content: "\0e246";
+}
+.material-icons.material-format-textdirection-l-to-r:before
+{
+	content: "\0e247";
+}
+.material-icons.material-format-textdirection-r-to-l:before
+{
+	content: "\0e248";
+}
+.material-icons.material-format-underlined:before
+{
+	content: "\0e249";
+}
+.material-icons.material-forum:before
+{
+	content: "\0e0bf";
+}
+.material-icons.material-forward:before
+{
+	content: "\0e154";
+}
+.material-icons.material-forward-10:before
+{
+	content: "\0e056";
+}
+.material-icons.material-forward-30:before
+{
+	content: "\0e057";
+}
+.material-icons.material-forward-5:before
+{
+	content: "\0e058";
+}
+.material-icons.material-fullscreen:before
+{
+	content: "\0e5d0";
+}
+.material-icons.material-fullscreen-exit:before
+{
+	content: "\0e5d1";
+}
+.material-icons.material-functions:before
+{
+	content: "\0e24a";
+}
+.material-icons.material-gamepad:before
+{
+	content: "\0e30f";
+}
+.material-icons.material-games:before
+{
+	content: "\0e021";
+}
+.material-icons.material-gesture:before
+{
+	content: "\0e155";
+}
+.material-icons.material-get-app:before
+{
+	content: "\0e884";
+}
+.material-icons.material-gif:before
+{
+	content: "\0e908";
+}
+.material-icons.material-gps-fixed:before
+{
+	content: "\0e1b3";
+}
+.material-icons.material-gps-not-fixed:before
+{
+	content: "\0e1b4";
+}
+.material-icons.material-gps-off:before
+{
+	content: "\0e1b5";
+}
+.material-icons.material-grade:before
+{
+	content: "\0e885";
+}
+.material-icons.material-gradient:before
+{
+	content: "\0e3e9";
+}
+.material-icons.material-grain:before
+{
+	content: "\0e3ea";
+}
+.material-icons.material-graphic-eq:before
+{
+	content: "\0e1b8";
+}
+.material-icons.material-grid-off:before
+{
+	content: "\0e3eb";
+}
+.material-icons.material-grid-on:before
+{
+	content: "\0e3ec";
+}
+.material-icons.material-group:before
+{
+	content: "\0e7ef";
+}
+.material-icons.material-group-add:before
+{
+	content: "\0e7f0";
+}
+.material-icons.material-group-work:before
+{
+	content: "\0e886";
+}
+.material-icons.material-hd:before
+{
+	content: "\0e052";
+}
+.material-icons.material-hdr-off:before
+{
+	content: "\0e3ed";
+}
+.material-icons.material-hdr-on:before
+{
+	content: "\0e3ee";
+}
+.material-icons.material-hdr-strong:before
+{
+	content: "\0e3f1";
+}
+.material-icons.material-hdr-weak:before
+{
+	content: "\0e3f2";
+}
+.material-icons.material-headset:before
+{
+	content: "\0e310";
+}
+.material-icons.material-headset-mic:before
+{
+	content: "\0e311";
+}
+.material-icons.material-healing:before
+{
+	content: "\0e3f3";
+}
+.material-icons.material-hearing:before
+{
+	content: "\0e023";
+}
+.material-icons.material-help:before
+{
+	content: "\0e887";
+}
+.material-icons.material-help-outline:before
+{
+	content: "\0e8fd";
+}
+.material-icons.material-high-quality:before
+{
+	content: "\0e024";
+}
+.material-icons.material-highlight-off:before
+{
+	content: "\0e888";
+}
+.material-icons.material-history:before
+{
+	content: "\0e889";
+}
+.material-icons.material-home:before
+{
+	content: "\0e88a";
+}
+.material-icons.material-hotel:before
+{
+	content: "\0e53a";
+}
+.material-icons.material-hourglass-empty:before
+{
+	content: "\0e88b";
+}
+.material-icons.material-hourglass-full:before
+{
+	content: "\0e88c";
+}
+.material-icons.material-http:before
+{
+	content: "\0e902";
+}
+.material-icons.material-https:before
+{
+	content: "\0e88d";
+}
+.material-icons.material-image:before
+{
+	content: "\0e3f4";
+}
+.material-icons.material-image-aspect-ratio:before
+{
+	content: "\0e3f5";
+}
+.material-icons.material-import-export:before
+{
+	content: "\0e0c3";
+}
+.material-icons.material-inbox:before
+{
+	content: "\0e156";
+}
+.material-icons.material-indeterminate-check-box:before
+{
+	content: "\0e909";
+}
+.material-icons.material-info:before
+{
+	content: "\0e88e";
+}
+.material-icons.material-info-outline:before
+{
+	content: "\0e88f";
+}
+.material-icons.material-input:before
+{
+	content: "\0e890";
+}
+.material-icons.material-insert-chart:before
+{
+	content: "\0e24b";
+}
+.material-icons.material-insert-comment:before
+{
+	content: "\0e24c";
+}
+.material-icons.material-insert-drive-file:before
+{
+	content: "\0e24d";
+}
+.material-icons.material-insert-emoticon:before
+{
+	content: "\0e24e";
+}
+.material-icons.material-insert-invitation:before
+{
+	content: "\0e24f";
+}
+.material-icons.material-insert-link:before
+{
+	content: "\0e250";
+}
+.material-icons.material-insert-photo:before
+{
+	content: "\0e251";
+}
+.material-icons.material-invert-colors:before
+{
+	content: "\0e891";
+}
+.material-icons.material-invert-colors-off:before
+{
+	content: "\0e0c4";
+}
+.material-icons.material-iso:before
+{
+	content: "\0e3f6";
+}
+.material-icons.material-keyboard:before
+{
+	content: "\0e312";
+}
+.material-icons.material-keyboard-arrow-down:before
+{
+	content: "\0e313";
+}
+.material-icons.material-keyboard-arrow-left:before
+{
+	content: "\0e314";
+}
+.material-icons.material-keyboard-arrow-right:before
+{
+	content: "\0e315";
+}
+.material-icons.material-keyboard-arrow-up:before
+{
+	content: "\0e316";
+}
+.material-icons.material-keyboard-backspace:before
+{
+	content: "\0e317";
+}
+.material-icons.material-keyboard-capslock:before
+{
+	content: "\0e318";
+}
+.material-icons.material-keyboard-hide:before
+{
+	content: "\0e31a";
+}
+.material-icons.material-keyboard-return:before
+{
+	content: "\0e31b";
+}
+.material-icons.material-keyboard-tab:before
+{
+	content: "\0e31c";
+}
+.material-icons.material-keyboard-voice:before
+{
+	content: "\0e31d";
+}
+.material-icons.material-label:before
+{
+	content: "\0e892";
+}
+.material-icons.material-label-outline:before
+{
+	content: "\0e893";
+}
+.material-icons.material-landscape:before
+{
+	content: "\0e3f7";
+}
+.material-icons.material-language:before
+{
+	content: "\0e894";
+}
+.material-icons.material-laptop:before
+{
+	content: "\0e31e";
+}
+.material-icons.material-laptop-chromebook:before
+{
+	content: "\0e31f";
+}
+.material-icons.material-laptop-mac:before
+{
+	content: "\0e320";
+}
+.material-icons.material-laptop-windows:before
+{
+	content: "\0e321";
+}
+.material-icons.material-launch:before
+{
+	content: "\0e895";
+}
+.material-icons.material-layers:before
+{
+	content: "\0e53b";
+}
+.material-icons.material-layers-clear:before
+{
+	content: "\0e53c";
+}
+.material-icons.material-leak-add:before
+{
+	content: "\0e3f8";
+}
+.material-icons.material-leak-remove:before
+{
+	content: "\0e3f9";
+}
+.material-icons.material-lens:before
+{
+	content: "\0e3fa";
+}
+.material-icons.material-library-add:before
+{
+	content: "\0e02e";
+}
+.material-icons.material-library-books:before
+{
+	content: "\0e02f";
+}
+.material-icons.material-library-music:before
+{
+	content: "\0e030";
+}
+.material-icons.material-link:before
+{
+	content: "\0e157";
+}
+.material-icons.material-list:before
+{
+	content: "\0e896";
+}
+.material-icons.material-live-help:before
+{
+	content: "\0e0c6";
+}
+.material-icons.material-live-tv:before
+{
+	content: "\0e639";
+}
+.material-icons.material-local-activity:before
+{
+	content: "\0e53f";
+}
+.material-icons.material-local-airport:before
+{
+	content: "\0e53d";
+}
+.material-icons.material-local-atm:before
+{
+	content: "\0e53e";
+}
+.material-icons.material-local-bar:before
+{
+	content: "\0e540";
+}
+.material-icons.material-local-cafe:before
+{
+	content: "\0e541";
+}
+.material-icons.material-local-car-wash:before
+{
+	content: "\0e542";
+}
+.material-icons.material-local-convenience-store:before
+{
+	content: "\0e543";
+}
+.material-icons.material-local-dining:before
+{
+	content: "\0e556";
+}
+.material-icons.material-local-drink:before
+{
+	content: "\0e544";
+}
+.material-icons.material-local-florist:before
+{
+	content: "\0e545";
+}
+.material-icons.material-local-gas-station:before
+{
+	content: "\0e546";
+}
+.material-icons.material-local-grocery-store:before
+{
+	content: "\0e547";
+}
+.material-icons.material-local-hospital:before
+{
+	content: "\0e548";
+}
+.material-icons.material-local-hotel:before
+{
+	content: "\0e549";
+}
+.material-icons.material-local-laundry-service:before
+{
+	content: "\0e54a";
+}
+.material-icons.material-local-library:before
+{
+	content: "\0e54b";
+}
+.material-icons.material-local-mall:before
+{
+	content: "\0e54c";
+}
+.material-icons.material-local-movies:before
+{
+	content: "\0e54d";
+}
+.material-icons.material-local-offer:before
+{
+	content: "\0e54e";
+}
+.material-icons.material-local-parking:before
+{
+	content: "\0e54f";
+}
+.material-icons.material-local-pharmacy:before
+{
+	content: "\0e550";
+}
+.material-icons.material-local-phone:before
+{
+	content: "\0e551";
+}
+.material-icons.material-local-pizza:before
+{
+	content: "\0e552";
+}
+.material-icons.material-local-play:before
+{
+	content: "\0e553";
+}
+.material-icons.material-local-post-office:before
+{
+	content: "\0e554";
+}
+.material-icons.material-local-printshop:before
+{
+	content: "\0e555";
+}
+.material-icons.material-local-see:before
+{
+	content: "\0e557";
+}
+.material-icons.material-local-shipping:before
+{
+	content: "\0e558";
+}
+.material-icons.material-local-taxi:before
+{
+	content: "\0e559";
+}
+.material-icons.material-location-city:before
+{
+	content: "\0e7f1";
+}
+.material-icons.material-location-disabled:before
+{
+	content: "\0e1b6";
+}
+.material-icons.material-location-off:before
+{
+	content: "\0e0c7";
+}
+.material-icons.material-location-on:before
+{
+	content: "\0e0c8";
+}
+.material-icons.material-location-searching:before
+{
+	content: "\0e1b7";
+}
+.material-icons.material-lock:before
+{
+	content: "\0e897";
+}
+.material-icons.material-lock-open:before
+{
+	content: "\0e898";
+}
+.material-icons.material-lock-outline:before
+{
+	content: "\0e899";
+}
+.material-icons.material-looks:before
+{
+	content: "\0e3fc";
+}
+.material-icons.material-looks-3:before
+{
+	content: "\0e3fb";
+}
+.material-icons.material-looks-4:before
+{
+	content: "\0e3fd";
+}
+.material-icons.material-looks-5:before
+{
+	content: "\0e3fe";
+}
+.material-icons.material-looks-6:before
+{
+	content: "\0e3ff";
+}
+.material-icons.material-looks-one:before
+{
+	content: "\0e400";
+}
+.material-icons.material-looks-two:before
+{
+	content: "\0e401";
+}
+.material-icons.material-loop:before
+{
+	content: "\0e028";
+}
+.material-icons.material-loupe:before
+{
+	content: "\0e402";
+}
+.material-icons.material-loyalty:before
+{
+	content: "\0e89a";
+}
+.material-icons.material-mail:before
+{
+	content: "\0e158";
+}
+.material-icons.material-map:before
+{
+	content: "\0e55b";
+}
+.material-icons.material-markunread:before
+{
+	content: "\0e159";
+}
+.material-icons.material-markunread-mailbox:before
+{
+	content: "\0e89b";
+}
+.material-icons.material-memory:before
+{
+	content: "\0e322";
+}
+.material-icons.material-menu:before
+{
+	content: "\0e5d2";
+}
+.material-icons.material-merge-type:before
+{
+	content: "\0e252";
+}
+.material-icons.material-message:before
+{
+	content: "\0e0c9";
+}
+.material-icons.material-mic:before
+{
+	content: "\0e029";
+}
+.material-icons.material-mic-none:before
+{
+	content: "\0e02a";
+}
+.material-icons.material-mic-off:before
+{
+	content: "\0e02b";
+}
+.material-icons.material-mms:before
+{
+	content: "\0e618";
+}
+.material-icons.material-mode-comment:before
+{
+	content: "\0e253";
+}
+.material-icons.material-mode-edit:before
+{
+	content: "\0e254";
+}
+.material-icons.material-money-off:before
+{
+	content: "\0e25c";
+}
+.material-icons.material-monochrome-photos:before
+{
+	content: "\0e403";
+}
+.material-icons.material-mood:before
+{
+	content: "\0e7f2";
+}
+.material-icons.material-mood-bad:before
+{
+	content: "\0e7f3";
+}
+.material-icons.material-more:before
+{
+	content: "\0e619";
+}
+.material-icons.material-more-horiz:before
+{
+	content: "\0e5d3";
+}
+.material-icons.material-more-vert:before
+{
+	content: "\0e5d4";
+}
+.material-icons.material-mouse:before
+{
+	content: "\0e323";
+}
+.material-icons.material-movie:before
+{
+	content: "\0e02c";
+}
+.material-icons.material-movie-creation:before
+{
+	content: "\0e404";
+}
+.material-icons.material-music-note:before
+{
+	content: "\0e405";
+}
+.material-icons.material-my-location:before
+{
+	content: "\0e55c";
+}
+.material-icons.material-nature:before
+{
+	content: "\0e406";
+}
+.material-icons.material-nature-people:before
+{
+	content: "\0e407";
+}
+.material-icons.material-navigate-before:before
+{
+	content: "\0e408";
+}
+.material-icons.material-navigate-next:before
+{
+	content: "\0e409";
+}
+.material-icons.material-navigation:before
+{
+	content: "\0e55d";
+}
+.material-icons.material-network-cell:before
+{
+	content: "\0e1b9";
+}
+.material-icons.material-network-locked:before
+{
+	content: "\0e61a";
+}
+.material-icons.material-network-wifi:before
+{
+	content: "\0e1ba";
+}
+.material-icons.material-new-releases:before
+{
+	content: "\0e031";
+}
+.material-icons.material-nfc:before
+{
+	content: "\0e1bb";
+}
+.material-icons.material-no-sim:before
+{
+	content: "\0e0cc";
+}
+.material-icons.material-not-interested:before
+{
+	content: "\0e033";
+}
+.material-icons.material-note-add:before
+{
+	content: "\0e89c";
+}
+.material-icons.material-notifications:before
+{
+	content: "\0e7f4";
+}
+.material-icons.material-notifications-active:before
+{
+	content: "\0e7f7";
+}
+.material-icons.material-notifications-none:before
+{
+	content: "\0e7f5";
+}
+.material-icons.material-notifications-off:before
+{
+	content: "\0e7f6";
+}
+.material-icons.material-notifications-paused:before
+{
+	content: "\0e7f8";
+}
+.material-icons.material-offline-pin:before
+{
+	content: "\0e90a";
+}
+.material-icons.material-ondemand-video:before
+{
+	content: "\0e63a";
+}
+.material-icons.material-open-in-browser:before
+{
+	content: "\0e89d";
+}
+.material-icons.material-open-in-new:before
+{
+	content: "\0e89e";
+}
+.material-icons.material-open-with:before
+{
+	content: "\0e89f";
+}
+.material-icons.material-pages:before
+{
+	content: "\0e7f9";
+}
+.material-icons.material-pageview:before
+{
+	content: "\0e8a0";
+}
+.material-icons.material-palette:before
+{
+	content: "\0e40a";
+}
+.material-icons.material-panorama:before
+{
+	content: "\0e40b";
+}
+.material-icons.material-panorama-fish-eye:before
+{
+	content: "\0e40c";
+}
+.material-icons.material-panorama-horizontal:before
+{
+	content: "\0e40d";
+}
+.material-icons.material-panorama-vertical:before
+{
+	content: "\0e40e";
+}
+.material-icons.material-panorama-wide-angle:before
+{
+	content: "\0e40f";
+}
+.material-icons.material-party-mode:before
+{
+	content: "\0e7fa";
+}
+.material-icons.material-pause:before
+{
+	content: "\0e034";
+}
+.material-icons.material-pause-circle-filled:before
+{
+	content: "\0e035";
+}
+.material-icons.material-pause-circle-outline:before
+{
+	content: "\0e036";
+}
+.material-icons.material-payment:before
+{
+	content: "\0e8a1";
+}
+.material-icons.material-people:before
+{
+	content: "\0e7fb";
+}
+.material-icons.material-people-outline:before
+{
+	content: "\0e7fc";
+}
+.material-icons.material-perm-camera-mic:before
+{
+	content: "\0e8a2";
+}
+.material-icons.material-perm-contact-calendar:before
+{
+	content: "\0e8a3";
+}
+.material-icons.material-perm-data-setting:before
+{
+	content: "\0e8a4";
+}
+.material-icons.material-perm-device-information:before
+{
+	content: "\0e8a5";
+}
+.material-icons.material-perm-identity:before
+{
+	content: "\0e8a6";
+}
+.material-icons.material-perm-media:before
+{
+	content: "\0e8a7";
+}
+.material-icons.material-perm-phone-msg:before
+{
+	content: "\0e8a8";
+}
+.material-icons.material-perm-scan-wifi:before
+{
+	content: "\0e8a9";
+}
+.material-icons.material-person:before
+{
+	content: "\0e7fd";
+}
+.material-icons.material-person-add:before
+{
+	content: "\0e7fe";
+}
+.material-icons.material-person-outline:before
+{
+	content: "\0e7ff";
+}
+.material-icons.material-person-pin:before
+{
+	content: "\0e55a";
+}
+.material-icons.material-personal-video:before
+{
+	content: "\0e63b";
+}
+.material-icons.material-phone:before
+{
+	content: "\0e0cd";
+}
+.material-icons.material-phone-android:before
+{
+	content: "\0e324";
+}
+.material-icons.material-phone-bluetooth-speaker:before
+{
+	content: "\0e61b";
+}
+.material-icons.material-phone-forwarded:before
+{
+	content: "\0e61c";
+}
+.material-icons.material-phone-in-talk:before
+{
+	content: "\0e61d";
+}
+.material-icons.material-phone-iphone:before
+{
+	content: "\0e325";
+}
+.material-icons.material-phone-locked:before
+{
+	content: "\0e61e";
+}
+.material-icons.material-phone-missed:before
+{
+	content: "\0e61f";
+}
+.material-icons.material-phone-paused:before
+{
+	content: "\0e620";
+}
+.material-icons.material-phonelink:before
+{
+	content: "\0e326";
+}
+.material-icons.material-phonelink-erase:before
+{
+	content: "\0e0db";
+}
+.material-icons.material-phonelink-lock:before
+{
+	content: "\0e0dc";
+}
+.material-icons.material-phonelink-off:before
+{
+	content: "\0e327";
+}
+.material-icons.material-phonelink-ring:before
+{
+	content: "\0e0dd";
+}
+.material-icons.material-phonelink-setup:before
+{
+	content: "\0e0de";
+}
+.material-icons.material-photo:before
+{
+	content: "\0e410";
+}
+.material-icons.material-photo-album:before
+{
+	content: "\0e411";
+}
+.material-icons.material-photo-camera:before
+{
+	content: "\0e412";
+}
+.material-icons.material-photo-library:before
+{
+	content: "\0e413";
+}
+.material-icons.material-photo-size-select-actual:before
+{
+	content: "\0e432";
+}
+.material-icons.material-photo-size-select-large:before
+{
+	content: "\0e433";
+}
+.material-icons.material-photo-size-select-small:before
+{
+	content: "\0e434";
+}
+.material-icons.material-picture-as-pdf:before
+{
+	content: "\0e415";
+}
+.material-icons.material-picture-in-picture:before
+{
+	content: "\0e8aa";
+}
+.material-icons.material-pin-drop:before
+{
+	content: "\0e55e";
+}
+.material-icons.material-place:before
+{
+	content: "\0e55f";
+}
+.material-icons.material-play-arrow:before
+{
+	content: "\0e037";
+}
+.material-icons.material-play-circle-filled:before
+{
+	content: "\0e038";
+}
+.material-icons.material-play-circle-outline:before
+{
+	content: "\0e039";
+}
+.material-icons.material-play-for-work:before
+{
+	content: "\0e906";
+}
+.material-icons.material-playlist-add:before
+{
+	content: "\0e03b";
+}
+.material-icons.material-plus-one:before
+{
+	content: "\0e800";
+}
+.material-icons.material-poll:before
+{
+	content: "\0e801";
+}
+.material-icons.material-polymer:before
+{
+	content: "\0e8ab";
+}
+.material-icons.material-portable-wifi-off:before
+{
+	content: "\0e0ce";
+}
+.material-icons.material-portrait:before
+{
+	content: "\0e416";
+}
+.material-icons.material-power:before
+{
+	content: "\0e63c";
+}
+.material-icons.material-power-input:before
+{
+	content: "\0e336";
+}
+.material-icons.material-power-settings-new:before
+{
+	content: "\0e8ac";
+}
+.material-icons.material-present-to-all:before
+{
+	content: "\0e0df";
+}
+.material-icons.material-print:before
+{
+	content: "\0e8ad";
+}
+.material-icons.material-public:before
+{
+	content: "\0e80b";
+}
+.material-icons.material-publish:before
+{
+	content: "\0e255";
+}
+.material-icons.material-query-builder:before
+{
+	content: "\0e8ae";
+}
+.material-icons.material-question-answer:before
+{
+	content: "\0e8af";
+}
+.material-icons.material-queue:before
+{
+	content: "\0e03c";
+}
+.material-icons.material-queue-music:before
+{
+	content: "\0e03d";
+}
+.material-icons.material-radio:before
+{
+	content: "\0e03e";
+}
+.material-icons.material-radio-button-checked:before
+{
+	content: "\0e837";
+}
+.material-icons.material-radio-button-unchecked:before
+{
+	content: "\0e836";
+}
+.material-icons.material-rate-review:before
+{
+	content: "\0e560";
+}
+.material-icons.material-receipt:before
+{
+	content: "\0e8b0";
+}
+.material-icons.material-recent-actors:before
+{
+	content: "\0e03f";
+}
+.material-icons.material-redeem:before
+{
+	content: "\0e8b1";
+}
+.material-icons.material-redo:before
+{
+	content: "\0e15a";
+}
+.material-icons.material-refresh:before
+{
+	content: "\0e5d5";
+}
+.material-icons.material-remove:before
+{
+	content: "\0e15b";
+}
+.material-icons.material-remove-circle:before
+{
+	content: "\0e15c";
+}
+.material-icons.material-remove-circle-outline:before
+{
+	content: "\0e15d";
+}
+.material-icons.material-remove-red-eye:before
+{
+	content: "\0e417";
+}
+.material-icons.material-reorder:before
+{
+	content: "\0e8fe";
+}
+.material-icons.material-repeat:before
+{
+	content: "\0e040";
+}
+.material-icons.material-repeat-one:before
+{
+	content: "\0e041";
+}
+.material-icons.material-replay:before
+{
+	content: "\0e042";
+}
+.material-icons.material-replay-10:before
+{
+	content: "\0e059";
+}
+.material-icons.material-replay-30:before
+{
+	content: "\0e05a";
+}
+.material-icons.material-replay-5:before
+{
+	content: "\0e05b";
+}
+.material-icons.material-reply:before
+{
+	content: "\0e15e";
+}
+.material-icons.material-reply-all:before
+{
+	content: "\0e15f";
+}
+.material-icons.material-report:before
+{
+	content: "\0e160";
+}
+.material-icons.material-report-problem:before
+{
+	content: "\0e8b2";
+}
+.material-icons.material-restaurant-menu:before
+{
+	content: "\0e561";
+}
+.material-icons.material-restore:before
+{
+	content: "\0e8b3";
+}
+.material-icons.material-ring-volume:before
+{
+	content: "\0e0d1";
+}
+.material-icons.material-room:before
+{
+	content: "\0e8b4";
+}
+.material-icons.material-rotate-90-degrees-ccw:before
+{
+	content: "\0e418";
+}
+.material-icons.material-rotate-left:before
+{
+	content: "\0e419";
+}
+.material-icons.material-rotate-right:before
+{
+	content: "\0e41a";
+}
+.material-icons.material-router:before
+{
+	content: "\0e328";
+}
+.material-icons.material-satellite:before
+{
+	content: "\0e562";
+}
+.material-icons.material-save:before
+{
+	content: "\0e161";
+}
+.material-icons.material-scanner:before
+{
+	content: "\0e329";
+}
+.material-icons.material-schedule:before
+{
+	content: "\0e8b5";
+}
+.material-icons.material-school:before
+{
+	content: "\0e80c";
+}
+.material-icons.material-screen-lock-landscape:before
+{
+	content: "\0e1be";
+}
+.material-icons.material-screen-lock-portrait:before
+{
+	content: "\0e1bf";
+}
+.material-icons.material-screen-lock-rotation:before
+{
+	content: "\0e1c0";
+}
+.material-icons.material-screen-rotation:before
+{
+	content: "\0e1c1";
+}
+.material-icons.material-sd-card:before
+{
+	content: "\0e623";
+}
+.material-icons.material-sd-storage:before
+{
+	content: "\0e1c2";
+}
+.material-icons.material-search:before
+{
+	content: "\0e8b6";
+}
+.material-icons.material-security:before
+{
+	content: "\0e32a";
+}
+.material-icons.material-select-all:before
+{
+	content: "\0e162";
+}
+.material-icons.material-send:before
+{
+	content: "\0e163";
+}
+.material-icons.material-settings:before
+{
+	content: "\0e8b8";
+}
+.material-icons.material-settings-applications:before
+{
+	content: "\0e8b9";
+}
+.material-icons.material-settings-backup-restore:before
+{
+	content: "\0e8ba";
+}
+.material-icons.material-settings-bluetooth:before
+{
+	content: "\0e8bb";
+}
+.material-icons.material-settings-brightness:before
+{
+	content: "\0e8bd";
+}
+.material-icons.material-settings-cell:before
+{
+	content: "\0e8bc";
+}
+.material-icons.material-settings-ethernet:before
+{
+	content: "\0e8be";
+}
+.material-icons.material-settings-input-antenna:before
+{
+	content: "\0e8bf";
+}
+.material-icons.material-settings-input-component:before
+{
+	content: "\0e8c0";
+}
+.material-icons.material-settings-input-composite:before
+{
+	content: "\0e8c1";
+}
+.material-icons.material-settings-input-hdmi:before
+{
+	content: "\0e8c2";
+}
+.material-icons.material-settings-input-svideo:before
+{
+	content: "\0e8c3";
+}
+.material-icons.material-settings-overscan:before
+{
+	content: "\0e8c4";
+}
+.material-icons.material-settings-phone:before
+{
+	content: "\0e8c5";
+}
+.material-icons.material-settings-power:before
+{
+	content: "\0e8c6";
+}
+.material-icons.material-settings-remote:before
+{
+	content: "\0e8c7";
+}
+.material-icons.material-settings-system-daydream:before
+{
+	content: "\0e1c3";
+}
+.material-icons.material-settings-voice:before
+{
+	content: "\0e8c8";
+}
+.material-icons.material-share:before
+{
+	content: "\0e80d";
+}
+.material-icons.material-shop:before
+{
+	content: "\0e8c9";
+}
+.material-icons.material-shop-two:before
+{
+	content: "\0e8ca";
+}
+.material-icons.material-shopping-basket:before
+{
+	content: "\0e8cb";
+}
+.material-icons.material-shopping-cart:before
+{
+	content: "\0e8cc";
+}
+.material-icons.material-shuffle:before
+{
+	content: "\0e043";
+}
+.material-icons.material-signal-cellular-4-bar:before
+{
+	content: "\0e1c8";
+}
+.material-icons.material-signal-cellular-connected-no-internet-4-bar:before
+{
+	content: "\0e1cd";
+}
+.material-icons.material-signal-cellular-no-sim:before
+{
+	content: "\0e1ce";
+}
+.material-icons.material-signal-cellular-null:before
+{
+	content: "\0e1cf";
+}
+.material-icons.material-signal-cellular-off:before
+{
+	content: "\0e1d0";
+}
+.material-icons.material-signal-wifi-4-bar:before
+{
+	content: "\0e1d8";
+}
+.material-icons.material-signal-wifi-4-bar-lock:before
+{
+	content: "\0e1d9";
+}
+.material-icons.material-signal-wifi-off:before
+{
+	content: "\0e1da";
+}
+.material-icons.material-sim-card:before
+{
+	content: "\0e32b";
+}
+.material-icons.material-sim-card-alert:before
+{
+	content: "\0e624";
+}
+.material-icons.material-skip-next:before
+{
+	content: "\0e044";
+}
+.material-icons.material-skip-previous:before
+{
+	content: "\0e045";
+}
+.material-icons.material-slideshow:before
+{
+	content: "\0e41b";
+}
+.material-icons.material-smartphone:before
+{
+	content: "\0e32c";
+}
+.material-icons.material-sms:before
+{
+	content: "\0e625";
+}
+.material-icons.material-sms-failed:before
+{
+	content: "\0e626";
+}
+.material-icons.material-snooze:before
+{
+	content: "\0e046";
+}
+.material-icons.material-sort:before
+{
+	content: "\0e164";
+}
+.material-icons.material-sort-by-alpha:before
+{
+	content: "\0e053";
+}
+.material-icons.material-space-bar:before
+{
+	content: "\0e256";
+}
+.material-icons.material-speaker:before
+{
+	content: "\0e32d";
+}
+.material-icons.material-speaker-group:before
+{
+	content: "\0e32e";
+}
+.material-icons.material-speaker-notes:before
+{
+	content: "\0e8cd";
+}
+.material-icons.material-speaker-phone:before
+{
+	content: "\0e0d2";
+}
+.material-icons.material-spellcheck:before
+{
+	content: "\0e8ce";
+}
+.material-icons.material-star:before
+{
+	content: "\0e838";
+}
+.material-icons.material-star-border:before
+{
+	content: "\0e83a";
+}
+.material-icons.material-star-half:before
+{
+	content: "\0e839";
+}
+.material-icons.material-stars:before
+{
+	content: "\0e8d0";
+}
+.material-icons.material-stay-current-landscape:before
+{
+	content: "\0e0d3";
+}
+.material-icons.material-stay-current-portrait:before
+{
+	content: "\0e0d4";
+}
+.material-icons.material-stay-primary-landscape:before
+{
+	content: "\0e0d5";
+}
+.material-icons.material-stay-primary-portrait:before
+{
+	content: "\0e0d6";
+}
+.material-icons.material-stop:before
+{
+	content: "\0e047";
+}
+.material-icons.material-storage:before
+{
+	content: "\0e1db";
+}
+.material-icons.material-store:before
+{
+	content: "\0e8d1";
+}
+.material-icons.material-store-mall-directory:before
+{
+	content: "\0e563";
+}
+.material-icons.material-straighten:before
+{
+	content: "\0e41c";
+}
+.material-icons.material-strikethrough-s:before
+{
+	content: "\0e257";
+}
+.material-icons.material-style:before
+{
+	content: "\0e41d";
+}
+.material-icons.material-subject:before
+{
+	content: "\0e8d2";
+}
+.material-icons.material-subtitles:before
+{
+	content: "\0e048";
+}
+.material-icons.material-supervisor-account:before
+{
+	content: "\0e8d3";
+}
+.material-icons.material-surround-sound:before
+{
+	content: "\0e049";
+}
+.material-icons.material-swap-calls:before
+{
+	content: "\0e0d7";
+}
+.material-icons.material-swap-horiz:before
+{
+	content: "\0e8d4";
+}
+.material-icons.material-swap-vert:before
+{
+	content: "\0e8d5";
+}
+.material-icons.material-swap-vertical-circle:before
+{
+	content: "\0e8d6";
+}
+.material-icons.material-switch-camera:before
+{
+	content: "\0e41e";
+}
+.material-icons.material-switch-video:before
+{
+	content: "\0e41f";
+}
+.material-icons.material-sync:before
+{
+	content: "\0e627";
+}
+.material-icons.material-sync-disabled:before
+{
+	content: "\0e628";
+}
+.material-icons.material-sync-problem:before
+{
+	content: "\0e629";
+}
+.material-icons.material-system-update:before
+{
+	content: "\0e62a";
+}
+.material-icons.material-system-update-alt:before
+{
+	content: "\0e8d7";
+}
+.material-icons.material-tab:before
+{
+	content: "\0e8d8";
+}
+.material-icons.material-tab-unselected:before
+{
+	content: "\0e8d9";
+}
+.material-icons.material-tablet:before
+{
+	content: "\0e32f";
+}
+.material-icons.material-tablet-android:before
+{
+	content: "\0e330";
+}
+.material-icons.material-tablet-mac:before
+{
+	content: "\0e331";
+}
+.material-icons.material-tag-faces:before
+{
+	content: "\0e420";
+}
+.material-icons.material-tap-and-play:before
+{
+	content: "\0e62b";
+}
+.material-icons.material-terrain:before
+{
+	content: "\0e564";
+}
+.material-icons.material-text-format:before
+{
+	content: "\0e165";
+}
+.material-icons.material-textsms:before
+{
+	content: "\0e0d8";
+}
+.material-icons.material-texture:before
+{
+	content: "\0e421";
+}
+.material-icons.material-theaters:before
+{
+	content: "\0e8da";
+}
+.material-icons.material-thumb-down:before
+{
+	content: "\0e8db";
+}
+.material-icons.material-thumb-up:before
+{
+	content: "\0e8dc";
+}
+.material-icons.material-thumbs-up-down:before
+{
+	content: "\0e8dd";
+}
+.material-icons.material-time-to-leave:before
+{
+	content: "\0e62c";
+}
+.material-icons.material-timelapse:before
+{
+	content: "\0e422";
+}
+.material-icons.material-timer:before
+{
+	content: "\0e425";
+}
+.material-icons.material-timer-10:before
+{
+	content: "\0e423";
+}
+.material-icons.material-timer-3:before
+{
+	content: "\0e424";
+}
+.material-icons.material-timer-off:before
+{
+	content: "\0e426";
+}
+.material-icons.material-toc:before
+{
+	content: "\0e8de";
+}
+.material-icons.material-today:before
+{
+	content: "\0e8df";
+}
+.material-icons.material-toll:before
+{
+	content: "\0e8e0";
+}
+.material-icons.material-tonality:before
+{
+	content: "\0e427";
+}
+.material-icons.material-toys:before
+{
+	content: "\0e332";
+}
+.material-icons.material-track-changes:before
+{
+	content: "\0e8e1";
+}
+.material-icons.material-traffic:before
+{
+	content: "\0e565";
+}
+.material-icons.material-transform:before
+{
+	content: "\0e428";
+}
+.material-icons.material-translate:before
+{
+	content: "\0e8e2";
+}
+.material-icons.material-trending-down:before
+{
+	content: "\0e8e3";
+}
+.material-icons.material-trending-flat:before
+{
+	content: "\0e8e4";
+}
+.material-icons.material-trending-up:before
+{
+	content: "\0e8e5";
+}
+.material-icons.material-tune:before
+{
+	content: "\0e429";
+}
+.material-icons.material-turned-in:before
+{
+	content: "\0e8e6";
+}
+.material-icons.material-turned-in-not:before
+{
+	content: "\0e8e7";
+}
+.material-icons.material-tv:before
+{
+	content: "\0e333";
+}
+.material-icons.material-undo:before
+{
+	content: "\0e166";
+}
+.material-icons.material-unfold-less:before
+{
+	content: "\0e5d6";
+}
+.material-icons.material-unfold-more:before
+{
+	content: "\0e5d7";
+}
+.material-icons.material-usb:before
+{
+	content: "\0e1e0";
+}
+.material-icons.material-verified-user:before
+{
+	content: "\0e8e8";
+}
+.material-icons.material-vertical-align-bottom:before
+{
+	content: "\0e258";
+}
+.material-icons.material-vertical-align-center:before
+{
+	content: "\0e259";
+}
+.material-icons.material-vertical-align-top:before
+{
+	content: "\0e25a";
+}
+.material-icons.material-vibration:before
+{
+	content: "\0e62d";
+}
+.material-icons.material-video-library:before
+{
+	content: "\0e04a";
+}
+.material-icons.material-videocam:before
+{
+	content: "\0e04b";
+}
+.material-icons.material-videocam-off:before
+{
+	content: "\0e04c";
+}
+.material-icons.material-view-agenda:before
+{
+	content: "\0e8e9";
+}
+.material-icons.material-view-array:before
+{
+	content: "\0e8ea";
+}
+.material-icons.material-view-carousel:before
+{
+	content: "\0e8eb";
+}
+.material-icons.material-view-column:before
+{
+	content: "\0e8ec";
+}
+.material-icons.material-view-comfy:before
+{
+	content: "\0e42a";
+}
+.material-icons.material-view-compact:before
+{
+	content: "\0e42b";
+}
+.material-icons.material-view-day:before
+{
+	content: "\0e8ed";
+}
+.material-icons.material-view-headline:before
+{
+	content: "\0e8ee";
+}
+.material-icons.material-view-list:before
+{
+	content: "\0e8ef";
+}
+.material-icons.material-view-module:before
+{
+	content: "\0e8f0";
+}
+.material-icons.material-view-quilt:before
+{
+	content: "\0e8f1";
+}
+.material-icons.material-view-stream:before
+{
+	content: "\0e8f2";
+}
+.material-icons.material-view-week:before
+{
+	content: "\0e8f3";
+}
+.material-icons.material-vignette:before
+{
+	content: "\0e435";
+}
+.material-icons.material-visibility:before
+{
+	content: "\0e8f4";
+}
+.material-icons.material-visibility-off:before
+{
+	content: "\0e8f5";
+}
+.material-icons.material-voice-chat:before
+{
+	content: "\0e62e";
+}
+.material-icons.material-voicemail:before
+{
+	content: "\0e0d9";
+}
+.material-icons.material-volume-down:before
+{
+	content: "\0e04d";
+}
+.material-icons.material-volume-mute:before
+{
+	content: "\0e04e";
+}
+.material-icons.material-volume-off:before
+{
+	content: "\0e04f";
+}
+.material-icons.material-volume-up:before
+{
+	content: "\0e050";
+}
+.material-icons.material-vpn-key:before
+{
+	content: "\0e0da";
+}
+.material-icons.material-vpn-lock:before
+{
+	content: "\0e62f";
+}
+.material-icons.material-wallpaper:before
+{
+	content: "\0e1bc";
+}
+.material-icons.material-warning:before
+{
+	content: "\0e002";
+}
+.material-icons.material-watch:before
+{
+	content: "\0e334";
+}
+.material-icons.material-wb-auto:before
+{
+	content: "\0e42c";
+}
+.material-icons.material-wb-cloudy:before
+{
+	content: "\0e42d";
+}
+.material-icons.material-wb-incandescent:before
+{
+	content: "\0e42e";
+}
+.material-icons.material-wb-iridescent:before
+{
+	content: "\0e436";
+}
+.material-icons.material-wb-sunny:before
+{
+	content: "\0e430";
+}
+.material-icons.material-wc:before
+{
+	content: "\0e63d";
+}
+.material-icons.material-web:before
+{
+	content: "\0e051";
+}
+.material-icons.material-whatshot:before
+{
+	content: "\0e80e";
+}
+.material-icons.material-widgets:before
+{
+	content: "\0e1bd";
+}
+.material-icons.material-wifi:before
+{
+	content: "\0e63e";
+}
+.material-icons.material-wifi-lock:before
+{
+	content: "\0e1e1";
+}
+.material-icons.material-wifi-tethering:before
+{
+	content: "\0e1e2";
+}
+.material-icons.material-work:before
+{
+	content: "\0e8f9";
+}
+.material-icons.material-wrap-text:before
+{
+	content: "\0e25b";
+}
+.material-icons.material-youtube-searched-for:before
+{
+	content: "\0e8fa";
+}
+.material-icons.material-zoom-in:before
+{
+	content: "\0e8ff";
+}
+.material-icons.material-zoom-out:before
+{
+	content: "\0e900";
+}
